@@ -56,3 +56,6 @@ Coding
 Output jika bahan 1 && bahan 2 == 1
 
 ![alt teks](https://github.com/AndraQeysa/Jobsheet-Percabangan/blob/master/Output%20praktik%202.PNG)
+
+# Catatan
+Untuk output yang lain bisa dicoba sendiri
